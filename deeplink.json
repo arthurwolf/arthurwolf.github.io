@@ -1,0 +1,11 @@
+{
+   "endpoints" : {
+      "backendURL" : "https://prod-nginz-https.wire1lab.co",
+      "backendWSURL" : "https://prod-nginz-ssl.wire1lab.co",
+      "blackListURL" : "https://clientblacklist.wire1lab.co/prod",
+      "teamsURL" : "https://teams.wire1lab.co",
+      "accountsURL" : "https://accounts.wire1lab.co",
+      "websiteURL" : "https://wire1lab.co"
+   },
+   "title" : "Demo Deployment"
+}
